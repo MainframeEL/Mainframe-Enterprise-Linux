@@ -1,4 +1,4 @@
-# Mainframe/OS Enterprise Linux v8.3 Release
+# Mainframe/OS Enterprise Linux v8.4 Beta Release
 
 This also contains the release source
 

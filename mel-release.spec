@@ -6,11 +6,11 @@
 %define contentdir melinux
 %define infra_var stock
 %define base_release_version 8
-%define full_release_version 8.3
+%define full_release_version 8.4
 %define dist_release_version 8
-%define upstream_rel_long 8.3-1
-%define upstream_rel 8.3
-%define mel_rel 4
+%define upstream_rel_long 8.4-beta
+%define upstream_rel 8.4
+%define mel_rel beta
 %define dist .el%{dist_release_version}
 
 # The anaconda scripts in %%{_libexecdir} can create false requirements
