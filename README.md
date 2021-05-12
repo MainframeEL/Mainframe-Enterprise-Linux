@@ -1,3 +1,5 @@
-# Mainframe/OS Enterprise Linux v6.0 Release
+# Mainframe/OS Enterprise Linux v8.3 Release
 
-Contains os-release files for Mainframe/OS
+This also contains the release source
+
+## Mainframe Enterprise Linux, a RHEL-derived distribution to replace CentOS 8 as a 1 to 1 compatible RHEL binary distrobution

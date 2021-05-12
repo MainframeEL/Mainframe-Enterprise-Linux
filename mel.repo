@@ -1,0 +1,35 @@
+# mel.repo
+
+[baseos]
+name=Mainframe Linux $releasever - BaseOS
+baseurl=https://packagecloud.io/abdonmorales/MEL-BaseOS/el/8/$basearch
+enabled=1
+gpgcheck=1
+gpgkey=https://packagecloud.io/abdonmorales/MEL-BaseOS/gpgkey
+fastestmirror=1
+
+[appstream]
+name=Mainframe Enterprise Linux $releasever - AppStream
+baseurl=https://packagecloud.io/abdonmorales/MEL-AppStream/el/8/$basearch
+enabled=1
+gpgcheck=1
+gpgkey=https://packagecloud.io/abdonmorales/MEL-AppStream/gpgkey
+fastestmirror=1
+
+## Sources
+[baseos-source]
+name=Mainframe Enterprise Linux $releasever - BaseOS Source
+baseurl=https://packagecloud.io/abdonmorales/MEL-BaseOS/el/8/SRPMS
+enabled=0
+gpgcheck=1
+gpgkey=https://packagecloud.io/abdonmorales/MEL-BaseOS/gpgkey
+fastestmirror=1
+
+[appstream-source]
+name=Mainframe Enterprise Linux $releasever - AppStream Source
+baseurl=https://packagecloud.io/abdonmorales/MEL-AppStream/el/8/SRPMS
+enabled=0
+gpgcheck=1
+gpgkey=https://packagecloud.io/abdonmorales/MEL-AppStream/gpgkey
+fastestmirror=1
+
