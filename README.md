@@ -1,4 +1,4 @@
-# Mainframe/OS Enterprise Linux v8.3
+# Mainframe Enterprise Linux v8.3
 
 This also contains the release source
 
