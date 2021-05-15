@@ -38,7 +38,7 @@ Provides:       redhat-release-eula
 Source1:        85-display-manager.preset
 Source2:        90-default.preset
 Source3:        99-default-disable.preset
-Source10:       RPM-GPG-KEY-sunOSLinux
+Source10:       RPM-GPG-KEY-MEL
 
 ##Source100:      rootfs-expand
 
